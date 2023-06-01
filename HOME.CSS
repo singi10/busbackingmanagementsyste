@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.dev{
+    margin-top: 30px;
+
+
+}
+.dev button{
+width: 150Px;
+height:50px;
+border-radius: 30px;
+box-shadow: 5px 5px 7px 5px indigo;
+background: aqua;
+}
+.dev button a{
+    color: blueviolet;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+
+}
+.fr{
+    margin-top: 20px;
+}
+.fr marquee {
+    color: rgb(110, 238, 200);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.as{
+    margin-left: 60rem;
+   margin-bottom: 10px;
+}
+.body{
+background-color: aquamarine;
+
+}

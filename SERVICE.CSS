@@ -1,0 +1,53 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+fieldset{
+width: 30%;
+height: 70%;
+top: 50%;
+
+}
+input{
+    font-size: 10px;
+}
+
+
+.dev button{
+width: 150Px;
+height:50px;
+border-radius: 30px;
+box-shadow: 5px 5px 7px 5px indigo;
+background: aqua;
+
+}
+.dev button a{
+    color:blueviolet;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.gg form{
+    background-color:linear-gradient(left to cyan;yellow;) 
+}
+.d image{
+padding: 0px;
+margin: 0px;
+top: 30px;
+}
+.ww {
+    margin-left: 70rem;
+   margin-bottom: 10px;
+   margin-right: 100rem;
+  marker-end: 10001rem;
+}
+.uu{
+
+}
+
+
+
+
+
+
+

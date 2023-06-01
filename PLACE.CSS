@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.dev button{
+width: 150Px;
+height:50px;
+border-radius: 30px;
+box-shadow: 5px 5px 7px 5px indigo;
+background: aqua;
+}
+.dev button a{
+    color: blueviolet;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
